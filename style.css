@@ -8,7 +8,9 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  background-color:#EFDEC3;
+  font-family: 'Maitree', serif;
+
 }
 
 html {
@@ -16,7 +18,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: #E38568;
 }
 
 /* TRANSITION */
@@ -63,7 +65,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
-}
+}l
 
 .logo:hover {
   cursor: default;
@@ -182,6 +184,7 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
+  color: #E38568;
 }
 
 .section__text p {
@@ -190,16 +193,19 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  color: #FFFFFF;
 }
 
 .section__text__p2 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
+  color: #FFFFFF;
 }
 
 .title {
   font-size: 3rem;
   text-align: center;
+  color: #E38568;
 }
 
 #socials-container {
