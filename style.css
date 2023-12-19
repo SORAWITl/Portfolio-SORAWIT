@@ -440,6 +440,11 @@ footer {
   height: 10em;
   width: 20em;
 }
+.icon3{
+  cursor: pointer;
+  height: 5em;
+  width: 5em;
+}
 footer p {
   text-align: center;
 }
