@@ -435,7 +435,11 @@ footer {
   height: 26vh;
   margin: 0 1rem;
 }
-
+.icon2{
+  cursor: pointer;
+  height: 10em;
+  width: 20em;
+}
 footer p {
   text-align: center;
 }
