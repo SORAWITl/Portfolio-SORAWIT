@@ -1,6 +1,7 @@
 /* GENERAL */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Niramit:ital,wght@1,200&display=swap');
 
 * {
   margin: 0;
@@ -9,7 +10,7 @@
 
 body {
   background-color:#EFDEC3;
-  font-family: 'Maitree', serif;
+  font-family: 'Poppins', sans-serif;
 
 }
 
@@ -285,6 +286,7 @@ section {
 .about-details-container {
   justify-content: center;
   flex-direction: column;
+  font-family: 'Niramit', sans-serif;
 }
 
 .about-containers,
@@ -418,7 +420,7 @@ article .icon {
 }
 
 .contact-info-container p {
-  font-size: larger;
+  font-size: 25px;
 }
 
 .contact-icon {
