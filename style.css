@@ -175,6 +175,10 @@ section {
 
 /* PROFILE SECTION */
 
+.Port {
+  margin-bottom: 5%;
+}
+
 #profile {
   display: flex;
   justify-content: center;
@@ -205,6 +209,7 @@ section {
 }
 .section_text p {
   font-weight: 600;
+  align-items: center;
 }
 
 .section__text__p1 {
@@ -217,6 +222,9 @@ section {
   margin-bottom: 1rem;
   color: #FFFFFF;
   font-family: 'Niramit', sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  
 }
 
 .button-container h1 {
@@ -448,6 +456,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  margin-top: 10%;
 }
 
 .contact-info-upper-container {
@@ -467,11 +476,13 @@ article .icon {
   justify-content: center;
   gap: 0.5rem;
   margin: 1rem;
+  flex-direction: column;
 }
 
 .contact-info-container p {
   font-size: 25px;
 }
+
 
 .contact-icon {
   cursor: default;
